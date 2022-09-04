@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="winner">\Winner is:           </string>
+    <string name="sRestart">Press RESTART for new game:-</string>
+</resources>
